@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+out/
+cache/
+artifacts/
+lib/.cache/
+.DS_Store
+
